@@ -1,0 +1,21 @@
+# Archivos de datos (nunca subir información confidencial)
+*.xlsx
+*.xls
+*.csv
+
+# Excepciones: archivos de ejemplo si decides agregar uno
+# !ejemplo_estructura.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
